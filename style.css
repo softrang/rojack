@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(190, 212, 191);
+    
+    height: fit-content;
+     
+   
+   
+}
+
+.container{
+    width: 90%;
+    height: fit-content;
+    background-color: rgb(190, 212, 191)e;
+    margin-left: auto;
+    margin-right: auto;
+   
+    position: relative;
+}
+
+
+.hy{
+    
+  
+   width: 100%;
+   height: fit-content;
+  
+   margin-top: 00px;
+   text-align: center;
+   font-size: x-large;
+   
+   
+}
+
+
+span{
+    font-size: 80%;
+}
+table{
+    width: 80%;
+    background-color:rgb(173, 218, 218);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 00px;
+   
+    
+}
+td{
+    background-color: rgb(173, 218, 218);
+    width: 200px;
+    height: 40px;
+    vertical-align: top;
+    position: relative;
+    border: 10px solid transparent;
+    padding: 0px;
+    padding-bottom: 2px;
+    
+
+   
+}
+
+th{
+    color: rgb(117, 61, 170);
+}
+
+
+input{
+    width: 99%;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(204, 223, 223);
+    border:1px solid rgb(97, 151, 151);
+    
+
+}
+
+select{
+    width: 99%;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(204, 223, 223);
+    border:1px solid rgb(97, 151, 151);
+}
+
+input:hover{
+    background-color: rgb(183, 211, 211);
+    border:1px solid rgb(137, 175, 175); ;
+}
+
+.inpp{
+    width: 40%;
+}
+.inppp{
+    width: 40%;
+}
+
+
+.inp{
+    width: 23%;
+    font-size: 120%;
+    color: rgb(83, 31, 131);
+}
+.in{
+    text-align: center;
+    font-size: 110%;
+    color: rgb(83, 31, 131);
+}
+hr{
+    width: 100%;
+    height: 2px;
+    background-color: black;
+}
+
+
+.ing{
+    text-align: center;
+    font-size: 150%;
+    color: rgb(7, 92, 172);
+}
